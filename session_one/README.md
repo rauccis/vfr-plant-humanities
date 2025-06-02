@@ -1,2 +1,1 @@
-
-This is the Lab Demo for the Virtual Faculty Residency for Plant Humanities at Dumbarton Oaks. 
+This is the Lab Demo for the Virtual Faculty Residency for Plant Humanities at Dumbarton Oaks. Test.  
