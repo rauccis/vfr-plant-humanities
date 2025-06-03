@@ -1,1 +1,6 @@
-This is the Lab Demo for the Virtual Faculty Residency for Plant Humanities at Dumbarton Oaks. Test.  
+Let's read the [Tamarack essay](https://lab.plant-humanities.org/tamarack/)on the [Plant Humanities Lab](https://lab.plant-humanities.org/tamarack/)
+
+
+
+
+
