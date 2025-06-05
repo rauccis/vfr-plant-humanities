@@ -1,6 +1,6 @@
 
 <param ve-map
-	   center= "Q1264942"
-	   zoom="17"
-	   caption="This is the location of Dumbarton Oaks in Washington, D.C.">
+	   center= "41.885336,12.457402"
+	   zoom="19"
+	   caption="This is the location of ICCS Rome.">
 	   
